@@ -7,7 +7,7 @@ variables:
   # Global
   ap_vm_image: ubuntu-20.04
 
-  namespace: mlopsais
+  namespace: mlopsai
   postfix: 7388
   location: westus
   environment: prod
